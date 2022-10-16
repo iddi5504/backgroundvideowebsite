@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "videobackgroundwebsite",
+			"path": "."
+		},
+		{
+			"name": "bootstrap",
+			"path": "../../ngo/bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "videobackgroundwebsite"
+	}
+}
